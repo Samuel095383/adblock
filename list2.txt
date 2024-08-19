@@ -3568,3 +3568,5 @@
 127.0.0.1 zukxd6fkxqn.com
 127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
